@@ -1,0 +1,9 @@
+@font-face {
+  font-family: righteous;
+  src: url(https://fonts.google.com/specimen/Righteous?category=Display,Handwriting,Monospace);
+}
+h1 {
+align: center;
+  color: #3297a8;
+  font-family: righteous;
+}
